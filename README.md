@@ -1,2 +1,26 @@
-# sales-data-analysis-excel
-Product-wise sales analysis using Excel PivotTables and PivotCharts
+# Sales Data Analysis using Excel
+
+## Objective
+To analyze product-wise sales and identify top-performing and low-performing products.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- PowerBI
+
+## Analysis Performed
+- Cleaned and structured sales data
+- Created PivotTables for product-wise analysis
+- Calculated percentage contribution of each product
+- Visualized insights using PivotCharts
+
+## Key Insights
+- MacBook Pro Laptop is the top-selling product
+- iPhone and ThinkPad Laptop are major contributors
+- Accessories show comparatively lower sales contribution
+
+## Files
+- Sales_Analysis.xlsx – Final analysis file
+- Chart in Excel.png – PivotChart visualization
+- Dashboard.png - Dashboard using PowerBI
