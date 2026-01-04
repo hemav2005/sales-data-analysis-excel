@@ -21,7 +21,6 @@ To analyze product-wise sales and identify top-performing and low-performing pro
 - Accessories show comparatively lower sales contribution
 
 ## Files
-## Files
 - [Sales_Analysis.xlsx](Sales_Analysis.xlsx) – Final analysis file
 - [Chart_in_Excel.png](Chart_in_Excel.png) – PivotChart visualization
 - [Dashboard.png](Dashboard.png) – PowerBI dashboard
